@@ -1,9 +1,5 @@
 # Heart-Disease-Prediction-Using-Python
-ABOUT THIS PROJECT:-
-
-Heart disease is the number one cause of death globally. Heart disease is concertedly contributed by hypertension, diabetes, overweight and unhealthy lifestyles.
-This project covers manual exploratory data analysis and using pandas in Jupyter Notebook. 
-
+ Analysis:---
 1. Import The Libraries And Dataset
 2. Display Top 5 Rows of The Dataset
 3. Check The Last 5 Rows of The Dataset
